@@ -1,14 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-using UnrealBuildTool;
-using System.Collections.Generic;
-
-public class AventuraUSFX022026L1Target : TargetRules
-{
-	public AventuraUSFX022026L1Target(TargetInfo Target) : base(Target)
-	{
-		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("AventuraUSFX022026L1");
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8412fb30c900ac7a2b1885efb25db30dc4455fadf7ba74cded410201fa885fa9
+size 381

@@ -1,16 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "PlataformaSubterranea.h"
-
-APlataformaSubterranea::APlataformaSubterranea()
-{
-	PrimaryActorTick.bCanEverTick = true;
-
-	static ConstructorHelpers::FObjectFinder<UStaticMesh> PlataformaMeshAsset(TEXT("StaticMesh'/Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid'"));
-
-	// Create mesh component for the projectile sphere
-	mallaPlataforma->SetStaticMesh(PlataformaMeshAsset.Object);
-
-	tipoPlataforma = ETipoPlataforma::PLATAFORMA_SUBTERRANEA;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:061a6b45331c0bcf1e784f86c37b8cd13e07ac7d43d52ecfddf48d4f9c252def
+size 561

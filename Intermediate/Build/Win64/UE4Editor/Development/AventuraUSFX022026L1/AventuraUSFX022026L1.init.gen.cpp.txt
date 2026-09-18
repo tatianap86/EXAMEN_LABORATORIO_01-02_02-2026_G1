@@ -1,3 +1,3 @@
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e9e8c2355637758857c576bd7beb9b7bee7a71d27f9c71c453c5cfe587ab5dd
+size 367

@@ -1,5 +1,3 @@
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\InventoryActor.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\InventoryActor.generated.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:feeec0ef75902e45dfc8fab477911721d51556774ac100bae1d0578b05db1cc0
+size 626

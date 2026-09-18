@@ -1,14 +1,3 @@
-{
-	"Targets": [
-		{
-			"Name": "AventuraUSFX022026L1",
-			"Path": "D:\\src_SIS457\\AventuraUSFX022026L1\\Source\\AventuraUSFX022026L1.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "AventuraUSFX022026L1Editor",
-			"Path": "D:\\src_SIS457\\AventuraUSFX022026L1\\Source\\AventuraUSFX022026L1Editor.Target.cs",
-			"Type": "Editor"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fbfd96b5e00496a189de2c4001b67a02763e6522cb3de65b618b25d59914e7e
+size 402

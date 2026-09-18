@@ -1,28 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
-#include "InventoryComponent.generated.h"
-
-
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class AVENTURAUSFX022026L1_API UInventoryComponent : public UActorComponent
-{
-	GENERATED_BODY()
-
-public:	
-	// Sets default values for this component's properties
-	UInventoryComponent();
-
-protected:
-	// Called when the game starts
-	virtual void BeginPlay() override;
-
-public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-		
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc09638aa70912b2e95f03ba1b79aad54ad8c72fae4ef55b471578ab54f12e7d
+size 725

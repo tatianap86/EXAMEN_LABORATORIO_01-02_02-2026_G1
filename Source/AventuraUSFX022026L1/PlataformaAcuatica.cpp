@@ -1,16 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "PlataformaAcuatica.h"
-
-APlataformaAcuatica::APlataformaAcuatica()
-{
-	PrimaryActorTick.bCanEverTick = true;
-
-	static ConstructorHelpers::FObjectFinder<UStaticMesh> PlataformaMeshAsset(TEXT("StaticMesh'/Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule'"));
-
-	// Create mesh component for the projectile sphere
-	mallaPlataforma->SetStaticMesh(PlataformaMeshAsset.Object);
-
-	tipoPlataforma = ETipoPlataforma::PLATAFORMA_ACUATICA;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f073ca93a4d0eeec0dee47f2399afdb22847e7acad2053cf266ee2e07577c04b
+size 553

@@ -1,9 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#include "AventuraUSFX022026L1.h"
-#include "Modules/ModuleManager.h"
-
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, AventuraUSFX022026L1, "AventuraUSFX022026L1" );
-
-DEFINE_LOG_CATEGORY(LogAventuraUSFX022026L1)
- 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1dae85f0aaf81ad0ab2bb82efbb3c458b7d2fa57e419929fd076bcc51789dcc
+size 280

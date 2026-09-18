@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 # Auto detect text files and perform LF normalization
 * text=auto
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18279a20d6b607532fbd2a8ec81fae726790bbc1290c70d4891a40ffe82e946
+size 2599
+>>>>>>> Stashed changes

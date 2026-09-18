@@ -1,27 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "Puertas.h"
-
-// Sets default values
-APuertas::APuertas()
-{
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
-}
-
-// Called when the game starts or when spawned
-void APuertas::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
-// Called every frame
-void APuertas::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:46601006f6ce8ba889d5558a7d8210a2695d010cafac4f3f3213b258e9f8ca5a
+size 1359

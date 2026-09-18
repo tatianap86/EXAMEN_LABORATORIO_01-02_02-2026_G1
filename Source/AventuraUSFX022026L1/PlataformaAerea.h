@@ -1,30 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "Plataforma.h"
-#include "PlataformaAerea.generated.h"
-
-/**
- * 
- */
-UCLASS()
-class AVENTURAUSFX022026L1_API APlataformaAerea : public APlataforma
-{
-	GENERATED_BODY()
-	
-public:
-	APlataformaAerea();
-
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-public:
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	int numeroPaso;
-
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f766dbabc04e534fdbb6f998544aca26090174f9b36f8508e2bcb44ee0bf87
+size 550

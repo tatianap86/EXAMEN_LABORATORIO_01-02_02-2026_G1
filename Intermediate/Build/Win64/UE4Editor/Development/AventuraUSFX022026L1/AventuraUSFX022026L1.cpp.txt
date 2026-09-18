@@ -1,2 +1,3 @@
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\AventuraUSFX022026L1.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f231e875827573ef4ac45101fb9f267e9c50128f66d083c9fedeb4bf9a7857
+size 270

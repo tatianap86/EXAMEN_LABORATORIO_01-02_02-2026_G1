@@ -1,5 +1,3 @@
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaAcuatica.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Plataforma.h
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Plataforma.generated.h
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaAcuatica.generated.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:32925e38eac467a33062b2dc90081418dd113edb1a4a74d4398fa0bc36077dfb
+size 657

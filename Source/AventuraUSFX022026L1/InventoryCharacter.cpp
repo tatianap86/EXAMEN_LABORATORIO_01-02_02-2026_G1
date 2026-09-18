@@ -1,34 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "InventoryCharacter.h"
-
-// Sets default values
-AInventoryCharacter::AInventoryCharacter()
-{
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
-}
-
-// Called when the game starts or when spawned
-void AInventoryCharacter::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
-// Called every frame
-void AInventoryCharacter::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
-// Called to bind functionality to input
-void AInventoryCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
-{
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb0abf9062982154b9275b88afed2e2049655d1eb40573f92e0a89c623bf383
+size 788

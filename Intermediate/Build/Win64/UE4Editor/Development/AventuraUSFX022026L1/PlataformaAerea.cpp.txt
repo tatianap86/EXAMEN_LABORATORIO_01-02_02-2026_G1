@@ -1,5 +1,3 @@
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\PlataformaAerea.h
-D:\src_SIS457\AventuraUSFX022026L1\Source\AventuraUSFX022026L1\Plataforma.h
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Plataforma.generated.h
-D:\src_SIS457\AventuraUSFX022026L1\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaAerea.generated.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:98c38a9b887cbf2361776e3de9a2ef9c31a564eb2188b94189af27fb3891ec5b
+size 651

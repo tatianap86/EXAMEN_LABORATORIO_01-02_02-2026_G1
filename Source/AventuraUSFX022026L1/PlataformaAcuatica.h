@@ -1,19 +1,3 @@
-
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "Plataforma.h"
-#include "PlataformaAcuatica.generated.h"
-
-/**
- * 
- */
-UCLASS()
-class AVENTURAUSFX022026L1_API APlataformaAcuatica : public APlataforma
-{
-	GENERATED_BODY()
-public:
-	APlataformaAcuatica();
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f060fef3416a11b03d725da5985c055ae12c13f49dde3439208d11b51a09d7f
+size 354
